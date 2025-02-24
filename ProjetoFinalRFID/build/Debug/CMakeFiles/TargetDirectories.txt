@@ -1,0 +1,5 @@
+C:/Users/Vanes/OneDrive/Documents/01.Vanessa.UTFPR/LAB08/ProjetoFinalRFID/build/Debug/CMakeFiles/ProjetoFinalRFID.dir
+C:/Users/Vanes/OneDrive/Documents/01.Vanessa.UTFPR/LAB08/ProjetoFinalRFID/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/Vanes/OneDrive/Documents/01.Vanessa.UTFPR/LAB08/ProjetoFinalRFID/build/Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Vanes/OneDrive/Documents/01.Vanessa.UTFPR/LAB08/ProjetoFinalRFID/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/Vanes/OneDrive/Documents/01.Vanessa.UTFPR/LAB08/ProjetoFinalRFID/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

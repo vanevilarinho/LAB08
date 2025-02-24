@@ -1,0 +1,27 @@
+# ninja log v5
+70	1665	7620660767893012	CMakeFiles/ProjetoFinalRFID.dir/Core/Src/stm32f4xx_hal_msp.c.obj	b00e3ffad5fbb0a4
+134	2017	7620660770218823	CMakeFiles/ProjetoFinalRFID.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	b9add09d693a2e97
+98	1983	7620660770059168	CMakeFiles/ProjetoFinalRFID.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	9532553c398d308e
+114	2150	7620660771152103	CMakeFiles/ProjetoFinalRFID.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	1db076fd2715031f
+148	2287	7620660773677249	CMakeFiles/ProjetoFinalRFID.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj	cff00ccc5bee3c04
+1668	4156	7620660791851129	CMakeFiles/ProjetoFinalRFID.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj	b9d9b3611b96cee5
+59	1940	7620660768925807	CMakeFiles/ProjetoFinalRFID.dir/Core/Src/stm32f4xx_it.c.obj	eb3d29aa2e5860f2
+161	2000	7620660770617748	CMakeFiles/ProjetoFinalRFID.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj	95f62036bd91f5b
+84	2595	7620660775728973	CMakeFiles/ProjetoFinalRFID.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj	6bea2ff20e506d9
+3900	6094	7620660812258119	CMakeFiles/ProjetoFinalRFID.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj	4731a23ebf3c79ff
+2151	4626	7620660797127166	CMakeFiles/ProjetoFinalRFID.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj	90a35400d23ebac6
+1941	4131	7620660792089364	CMakeFiles/ProjetoFinalRFID.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	c0bbc4b465cff082
+2288	4551	7620660796371369	CMakeFiles/ProjetoFinalRFID.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj	2a7d805e15b25b07
+2406	5018	7620660800360257	CMakeFiles/ProjetoFinalRFID.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj	d0882df1d468ed46
+2000	4467	7620660795763064	CMakeFiles/ProjetoFinalRFID.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj	cdb2137bd17ca8f3
+4157	5209	7620660803435347	CMakeFiles/ProjetoFinalRFID.dir/Core/Src/sysmem.c.obj	8832b56fdad89c0b
+1983	5030	7620660801198939	CMakeFiles/ProjetoFinalRFID.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj	29e1baeebcc7358f
+2124	4758	7620660798211082	CMakeFiles/ProjetoFinalRFID.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj	9b95609a9305de7a
+2596	5079	7620660801969436	CMakeFiles/ProjetoFinalRFID.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj	b973b2736fe6262
+2017	3899	7620660789331857	CMakeFiles/ProjetoFinalRFID.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj	2798b62280e97672
+4551	5157	7620660802793158	CMakeFiles/ProjetoFinalRFID.dir/startup_stm32f411xe.s.obj	6e10d1eb65c327df
+11	746	7620663991812072	CMakeFiles/ProjetoFinalRFID.dir/Core/Src/main.c.obj	d9c8bb92f8d1ce43
+4467	5689	7620660808258243	CMakeFiles/ProjetoFinalRFID.dir/Core/Src/syscalls.c.obj	71ec3019777842ff
+4132	5636	7620660807611820	CMakeFiles/ProjetoFinalRFID.dir/Core/Src/system_stm32f4xx.c.obj	d8f782df47b7a221
+47	2123	7620660771371519	CMakeFiles/ProjetoFinalRFID.dir/Core/Src/RC522.c.obj	85056668f4ca3e37
+749	1374	7620663997333597	ProjetoFinalRFID.elf	eab6cf2afa8aed7b
